@@ -24,6 +24,8 @@ Deep Learning: https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ
 
 Neural Network: https://www.youtube.com/watch?v=AyzOUbkUf3M
 
+MIT OpenCourseWare: https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
 # Websites
 V2_ website: http://v2.nl/events/hands-on-ai-kick-off
 
